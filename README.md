@@ -1,1 +1,1 @@
-# CS50x
+# This is CS50x! Introduction to Computer Science 
