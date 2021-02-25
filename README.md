@@ -1,4 +1,3 @@
-# This is CS50x! Introduction to Computer Science 
-https://cs50.harvard.edu/x/
+# This is [CS50x](https://cs50.harvard.edu/x/)! Introduction to Computer Science 
 
-# Academic Honesty
+## [Academic Honesty](https://cs50.harvard.edu/x/2021/honesty/)
